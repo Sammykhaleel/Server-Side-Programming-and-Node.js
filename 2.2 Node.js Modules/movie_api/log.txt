@@ -1,0 +1,42 @@
+URL: log.txt
+Timestamp: Fri Sep 06 2019 12:20:52 GMT-0400 (Eastern Daylight Time)
+
+URL: this my logs
+Timestamp: Fri Sep 06 2019 12:21:32 GMT-0400 (Eastern Daylight Time)
+
+URL: /documentation
+Timestamp: Fri Sep 06 2019 12:34:06 GMT-0400 (Eastern Daylight Time)
+
+URL: /favicon.ico
+Timestamp: Fri Sep 06 2019 12:34:06 GMT-0400 (Eastern Daylight Time)
+
+URL: /documentation
+Timestamp: Fri Sep 06 2019 12:34:20 GMT-0400 (Eastern Daylight Time)
+
+URL: /favicon.ico
+Timestamp: Fri Sep 06 2019 12:34:20 GMT-0400 (Eastern Daylight Time)
+
+URL: /documentation
+Timestamp: Fri Sep 06 2019 12:34:29 GMT-0400 (Eastern Daylight Time)
+
+URL: /favicon.ico
+Timestamp: Fri Sep 06 2019 12:34:30 GMT-0400 (Eastern Daylight Time)
+
+URL: /documentation
+Timestamp: Fri Sep 06 2019 12:34:38 GMT-0400 (Eastern Daylight Time)
+
+URL: /favicon.ico
+Timestamp: Fri Sep 06 2019 12:34:38 GMT-0400 (Eastern Daylight Time)
+
+URL: /documentation
+Timestamp: Fri Sep 06 2019 12:34:48 GMT-0400 (Eastern Daylight Time)
+
+URL: /favicon.ico
+Timestamp: Fri Sep 06 2019 12:34:48 GMT-0400 (Eastern Daylight Time)
+
+URL: /
+Timestamp: Fri Sep 06 2019 12:45:32 GMT-0400 (Eastern Daylight Time)
+
+URL: /favicon.ico
+Timestamp: Fri Sep 06 2019 12:45:32 GMT-0400 (Eastern Daylight Time)
+
