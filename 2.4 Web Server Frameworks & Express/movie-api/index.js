@@ -37,22 +37,22 @@ let topBooks = [
 ];
 
 // GET requests
-var myLogger = function(req, res, next) {
-  console.log(req.url);
-  next();
-};
-var requestTime = function(req, res, next) {
-  req.requestTime = Date.now();
-  next();
-};
-app.use(myLogger);
-app.use(requestTime);
-app.use(morgan("common"));
-app.use(express.static("public"));
-app.use(function(err, req, res, next) {
-  console.error(err.stack);
-  res.status(500).send("Something broke!");
-});
+// var myLogger = function(req, res, next) {
+//   console.log(req.url);
+//   next();
+// };
+// var requestTime = function(req, res, next) {
+//   req.requestTime = Date.now();
+//   next();
+// };
+// app.use(myLogger);
+// app.use(requestTime);
+// app.use(morgan("common"));
+// app.use(express.static("public"));
+// app.use(function(err, req, res, next) {
+//   console.error(err.stack);
+//   res.status(500).send("Something broke!");
+// });
 // app.get("/", function(req, res) {
 //   res.send("Welcome to my book club!");
 // });

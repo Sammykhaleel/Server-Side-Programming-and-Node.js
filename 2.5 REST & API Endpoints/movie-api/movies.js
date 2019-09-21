@@ -29,3 +29,13 @@ module.exports.movie = [
     author: "Stephanie Meyer"
   }
 ];
+
+module.exports.user = [
+  {
+    Name: "string",
+    Password: "password",
+    Email: "string",
+    Birthday: Date,
+    Favoritemovies: ["Movie"]
+  }
+];
